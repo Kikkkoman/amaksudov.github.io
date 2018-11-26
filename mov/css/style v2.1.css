@@ -1,0 +1,38 @@
+* {
+    text-align: center;
+}
+
+html {
+    text-align: center;
+    background: dimgray url('/mov/img/imdb.jpg') no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+p {
+    color: gold;
+    background-color: rgba(150, 149, 184, 0.301);
+    margin: 1.5cm;
+}
+
+li {
+    list-style: none;
+    font-size: 20px;
+    color: bisque;
+    background-color: rgba(71, 61, 139, 0.6);
+    margin: .5cm;
+}
+
+li:hover {
+    color: dimgray;
+    background-color: rgba(255, 217, 0, 0.8);
+}
+
+img {
+    height: 540px;
+    width: 360px
+}
+
+.logo {
+
+}

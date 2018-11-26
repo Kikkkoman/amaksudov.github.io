@@ -1,0 +1,54 @@
+* {
+    text-align: center;
+}
+
+.dcc {
+    font-size: 5cm
+}
+
+html {
+    text-align: center;
+    background: dimgray url('/mov/img/imdb.jpg') no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 120vh;
+}
+
+a {
+    font-size: 45px;
+    text-decoration: none;
+    color: rgb(229, 255, 0);
+    background-color: rgba(71, 61, 139, 0.301);
+}
+
+img {
+    height: 540px;
+    width: 360px;
+}
+
+ol {
+    margin: 100px;
+}
+
+li {
+    background-color: rgba(71, 61, 139, 0.295);
+    margin: 9cm;
+}
+
+li:hover {
+    color: dimgray;
+    background-color: rgba(255, 217, 0, 0.295);
+}
+
+a:hover {
+    color: dimgray;
+    background-color: gold;
+}
+
+.imdb {
+    margin: auto
+}
+/* 
+h1 {
+    position:fixed
+} */
